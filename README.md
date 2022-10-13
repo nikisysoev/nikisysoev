@@ -6,7 +6,7 @@
 
 </div>
 
-<h3>I am from Novosibirsk and currently looking for the new career opportunities as a Java Developer.</h3>
+<h3>I am a tech enthusiast from Novosibirsk and currently looking for the new career opportunities as a Java Developer.</h3>
 
 - 👨‍💻 My projects are available [here](https://github.com/nikisysoev?tab=repositories)
 
