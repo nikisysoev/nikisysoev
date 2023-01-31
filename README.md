@@ -10,10 +10,6 @@
 
 - 👨‍💻 My projects are available [here](https://github.com/nikisysoev?tab=repositories)
 
-- 📫 My CV: [https://cv.hexlet.io/resumes/1511](https://cv.hexlet.io/resumes/1511)
-  
-- 🎓 Visit my Hexlet profile: [https://ru.hexlet.io/u/1nikitasysoev](https://ru.hexlet.io/u/1nikitasysoev)  
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-316192?style=for-the-badge&logo=thymeleaf&logoColor=white) 
